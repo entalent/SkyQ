@@ -1,0 +1,1138 @@
+2015-09-11 01:53:50 - send {"type":"register-receipt", "username":"chris", "status":1}
+
+2015-09-11 01:53:57 - send {"type":"login-receipt","status":1,"username":"chris"}
+
+2015-09-11 01:53:58 - send {
+	"type":	"friend-list",
+	"size":	0,
+	"list":	[]
+}
+
+2015-09-11 01:53:58 - send {
+	"type":	"group-list",
+	"size":	0,
+	"list":	[]
+}
+
+2015-09-11 01:54:02 - send {
+	"type":	"add-to-contact-receipt",
+	"username":	"chris",
+	"contact":	"sky",
+	"status":	1
+}
+
+2015-09-11 01:54:03 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"sky",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:54:07 - send {
+	"type":	"add-to-contact-receipt",
+	"username":	"chris",
+	"contact":	"green",
+	"status":	1
+}
+
+2015-09-11 01:54:07 - send {
+	"type":	"friend-list",
+	"size":	2,
+	"list":	[{
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"green",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:54:08 - send {
+	"type":	"friend-list",
+	"size":	2,
+	"list":	[{
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"green",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:54:12 - send {
+	"type":	"add-to-contact-receipt",
+	"username":	"chris",
+	"contact":	"tsuki",
+	"status":	1
+}
+
+2015-09-11 01:54:13 - send {
+	"type":	"friend-list",
+	"size":	3,
+	"list":	[{
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"green",
+			"status":	0
+		}, {
+			"username":	"tsuki",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:54:17 - send {
+	"type":	"group-list",
+	"size":	0,
+	"list":	[]
+}
+
+2015-09-11 01:54:22 - send {
+	"type":	"add-to-contact-receipt",
+	"username":	"chris",
+	"contact":	"will",
+	"status":	1
+}
+
+2015-09-11 01:54:23 - send {
+	"type":	"friend-list",
+	"size":	4,
+	"list":	[{
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"green",
+			"status":	0
+		}, {
+			"username":	"tsuki",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:54:27 - send {
+	"type":	"group-join-receipt",
+	"username":	"chris",
+	"groupID":	1,
+	"status":	1
+}
+
+2015-09-11 01:54:28 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:54:30 - send {
+	"type":	"group-join-receipt",
+	"username":	"chris",
+	"groupID":	2,
+	"status":	1
+}
+
+2015-09-11 01:54:31 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	1
+		}, {
+			"groupID":	2
+		}]
+}
+
+2015-09-11 01:54:32 - send {
+	"type":	"friend-list",
+	"size":	4,
+	"list":	[{
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"green",
+			"status":	0
+		}, {
+			"username":	"tsuki",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:54:42 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	1
+		}, {
+			"groupID":	2
+		}]
+}
+
+2015-09-11 01:54:56 - send {
+	"type":	"friend-list",
+	"size":	4,
+	"list":	[{
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"green",
+			"status":	0
+		}, {
+			"username":	"tsuki",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:55:06 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	1
+		}, {
+			"groupID":	2
+		}]
+}
+
+2015-09-11 01:55:21 - send {
+	"type":	"add-to-contact-receipt",
+	"username":	"chris",
+	"contact":	"xc",
+	"status":	0
+}
+
+2015-09-11 01:55:22 - send {
+	"type":	"friend-list",
+	"size":	4,
+	"list":	[{
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"green",
+			"status":	0
+		}, {
+			"username":	"tsuki",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:55:22 - send {
+	"type":	"friend-list",
+	"size":	4,
+	"list":	[{
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"green",
+			"status":	0
+		}, {
+			"username":	"tsuki",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:55:28 - send {
+	"type":	"add-to-contact-receipt",
+	"username":	"chris",
+	"contact":	"xc",
+	"status":	0
+}
+
+2015-09-11 01:55:29 - send {
+	"type":	"friend-list",
+	"size":	4,
+	"list":	[{
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"green",
+			"status":	0
+		}, {
+			"username":	"tsuki",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:55:32 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	1
+		}, {
+			"groupID":	2
+		}]
+}
+
+2015-09-11 01:55:47 - send {
+	"type":	"friend-list",
+	"size":	4,
+	"list":	[{
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"green",
+			"status":	0
+		}, {
+			"username":	"tsuki",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:55:57 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	1
+		}, {
+			"groupID":	2
+		}]
+}
+
+2015-09-11 01:56:12 - send {
+	"type":	"friend-list",
+	"size":	4,
+	"list":	[{
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"green",
+			"status":	0
+		}, {
+			"username":	"tsuki",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:56:22 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	1
+		}, {
+			"groupID":	2
+		}]
+}
+
+2015-09-11 01:56:36 - send {
+	"type":	"friend-list",
+	"size":	4,
+	"list":	[{
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"green",
+			"status":	0
+		}, {
+			"username":	"tsuki",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:56:46 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	1
+		}, {
+			"groupID":	2
+		}]
+}
+
+2015-09-11 01:57:21 - send {"type":"login-receipt","status":1,"username":"chris"}
+
+2015-09-11 01:57:22 - send {
+	"type":	"friend-list",
+	"size":	4,
+	"list":	[{
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"green",
+			"status":	0
+		}, {
+			"username":	"tsuki",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:57:22 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	1
+		}, {
+			"groupID":	2
+		}]
+}
+
+2015-09-11 01:57:31 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	1
+		}, {
+			"groupID":	2
+		}]
+}
+
+2015-09-11 01:57:46 - send {
+	"type":	"friend-list",
+	"size":	4,
+	"list":	[{
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"green",
+			"status":	0
+		}, {
+			"username":	"tsuki",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:57:56 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	1
+		}, {
+			"groupID":	2
+		}]
+}
+
+2015-09-11 01:58:11 - send {
+	"type":	"friend-list",
+	"size":	4,
+	"list":	[{
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"green",
+			"status":	0
+		}, {
+			"username":	"tsuki",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:58:21 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	1
+		}, {
+			"groupID":	2
+		}]
+}
+
+2015-09-11 01:58:37 - send {
+	"type":	"friend-list",
+	"size":	4,
+	"list":	[{
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"green",
+			"status":	0
+		}, {
+			"username":	"tsuki",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:58:46 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	1
+		}, {
+			"groupID":	2
+		}]
+}
+
+2015-09-11 01:59:01 - send {
+	"type":	"friend-list",
+	"size":	4,
+	"list":	[{
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"green",
+			"status":	0
+		}, {
+			"username":	"tsuki",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:59:11 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	1
+		}, {
+			"groupID":	2
+		}]
+}
+
+2015-09-11 01:59:26 - send {
+	"type":	"friend-list",
+	"size":	4,
+	"list":	[{
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"green",
+			"status":	0
+		}, {
+			"username":	"tsuki",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:59:28 - send {"type":"login-receipt","status":1,"username":"green"}
+
+2015-09-11 01:59:28 - send {
+	"type":	"friend-list",
+	"size":	4,
+	"list":	[{
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"niang",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}, {
+			"username":	"tsuki",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:59:28 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	2
+		}, {
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:59:36 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	1
+		}, {
+			"groupID":	2
+		}]
+}
+
+2015-09-11 01:59:38 - send {
+	"type":	"add-to-contact-receipt",
+	"username":	"green",
+	"contact":	"chris",
+	"status":	1
+}
+
+2015-09-11 01:59:39 - send {
+	"type":	"friend-list",
+	"size":	5,
+	"list":	[{
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"niang",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}, {
+			"username":	"tsuki",
+			"status":	0
+		}, {
+			"username":	"chris",
+			"status":	1
+		}]
+}
+
+2015-09-11 01:59:40 - send {
+	"type":	"friend-list",
+	"size":	5,
+	"list":	[{
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"niang",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}, {
+			"username":	"tsuki",
+			"status":	0
+		}, {
+			"username":	"chris",
+			"status":	1
+		}]
+}
+
+2015-09-11 01:59:44 - send {
+	"type":	"message/text",
+	"sendto":	"chris",
+	"sendfrom":	"green",
+	"sendtime":	"2015-09-11 14:59:28",
+	"content":	"nihao"
+}
+
+2015-09-11 01:59:45 - send {
+	"type":	"message/text",
+	"sendto":	"chris",
+	"sendfrom":	"green",
+	"sendtime":	"2015-09-11 14:59:30",
+	"content":	"/wx"
+}
+
+2015-09-11 01:59:50 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	2
+		}, {
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:59:51 - send {
+	"type":	"friend-list",
+	"size":	4,
+	"list":	[{
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"green",
+			"status":	1
+		}, {
+			"username":	"tsuki",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}]
+}
+
+2015-09-11 02:00:02 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	1
+		}, {
+			"groupID":	2
+		}]
+}
+
+2015-09-11 02:00:06 - send {
+	"type":	"friend-list",
+	"size":	5,
+	"list":	[{
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"niang",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}, {
+			"username":	"tsuki",
+			"status":	0
+		}, {
+			"username":	"chris",
+			"status":	1
+		}]
+}
+
+2015-09-11 02:00:12 - send {
+	"type":	"message/text",
+	"sendto":	"green",
+	"sendfrom":	"chris",
+	"sendtime":	"2015-09-11 14:59:56",
+	"content":	"/wxnihao"
+}
+
+2015-09-11 02:00:16 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	2
+		}, {
+			"groupID":	1
+		}]
+}
+
+2015-09-11 02:00:17 - send {
+	"type":	"friend-list",
+	"size":	4,
+	"list":	[{
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"green",
+			"status":	1
+		}, {
+			"username":	"tsuki",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}]
+}
+
+2015-09-11 02:00:19 - send {
+	"type":	"message/text",
+	"sendto":	"chris",
+	"sendfrom":	"green",
+	"sendtime":	"2015-09-11 15:00:02",
+	"content":	"xixi\n"
+}
+
+2015-09-11 02:00:24 - send {
+	"type":	"message/text",
+	"sendto":	"green",
+	"sendfrom":	"chris",
+	"sendtime":	"2015-09-11 15:00:07",
+	"content":	"/am"
+}
+
+2015-09-11 02:00:25 - send {
+	"type":	"message/text",
+	"sendto":	"green",
+	"sendfrom":	"chris",
+	"sendtime":	"2015-09-11 15:00:09",
+	"content":	"/sk"
+}
+
+2015-09-11 02:00:26 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	1
+		}, {
+			"groupID":	2
+		}]
+}
+
+2015-09-11 02:00:31 - send {
+	"type":	"friend-list",
+	"size":	5,
+	"list":	[{
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"niang",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}, {
+			"username":	"tsuki",
+			"status":	0
+		}, {
+			"username":	"chris",
+			"status":	1
+		}]
+}
+
+2015-09-11 02:00:31 - send {
+	"type":	"group-profile",
+	"member-count":	6,
+	"groupID":	1,
+	"list":	[{
+			"username":	"sky"
+		}, {
+			"username":	"green"
+		}, {
+			"username":	"tsuki"
+		}, {
+			"username":	"will"
+		}, {
+			"username":	"cai"
+		}, {
+			"username":	"chris"
+		}]
+}
+
+2015-09-11 02:00:41 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	2
+		}, {
+			"groupID":	1
+		}]
+}
+
+2015-09-11 02:00:41 - send {
+	"type":	"friend-list",
+	"size":	4,
+	"list":	[{
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"green",
+			"status":	1
+		}, {
+			"username":	"tsuki",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}]
+}
+
+2015-09-11 02:00:51 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	1
+		}, {
+			"groupID":	2
+		}]
+}
+
+2015-09-11 02:00:56 - send {
+	"type":	"friend-list",
+	"size":	5,
+	"list":	[{
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"niang",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}, {
+			"username":	"tsuki",
+			"status":	0
+		}, {
+			"username":	"chris",
+			"status":	1
+		}]
+}
+
+2015-09-11 02:01:06 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	2
+		}, {
+			"groupID":	1
+		}]
+}
+
+2015-09-11 02:01:06 - send {
+	"type":	"friend-list",
+	"size":	4,
+	"list":	[{
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"green",
+			"status":	1
+		}, {
+			"username":	"tsuki",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}]
+}
+
+2015-09-11 02:01:16 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	1
+		}, {
+			"groupID":	2
+		}]
+}
+
+2015-09-11 02:01:21 - send {
+	"type":	"friend-list",
+	"size":	5,
+	"list":	[{
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"niang",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}, {
+			"username":	"tsuki",
+			"status":	0
+		}, {
+			"username":	"chris",
+			"status":	1
+		}]
+}
+
+2015-09-11 02:01:30 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	2
+		}, {
+			"groupID":	1
+		}]
+}
+
+2015-09-11 02:01:31 - send {
+	"type":	"friend-list",
+	"size":	4,
+	"list":	[{
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"green",
+			"status":	1
+		}, {
+			"username":	"tsuki",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}]
+}
+
+2015-09-11 02:01:42 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	1
+		}, {
+			"groupID":	2
+		}]
+}
+
+2015-09-11 02:01:46 - send {
+	"type":	"friend-list",
+	"size":	5,
+	"list":	[{
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"niang",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}, {
+			"username":	"tsuki",
+			"status":	0
+		}, {
+			"username":	"chris",
+			"status":	1
+		}]
+}
+
+2015-09-11 02:01:56 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	2
+		}, {
+			"groupID":	1
+		}]
+}
+
+2015-09-11 02:01:57 - send {
+	"type":	"friend-list",
+	"size":	4,
+	"list":	[{
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"green",
+			"status":	1
+		}, {
+			"username":	"tsuki",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}]
+}
+
+2015-09-11 02:02:06 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	1
+		}, {
+			"groupID":	2
+		}]
+}
+
+2015-09-11 02:02:08 - send {
+	"type":	"group-profile",
+	"member-count":	6,
+	"groupID":	1,
+	"list":	[{
+			"username":	"sky"
+		}, {
+			"username":	"green"
+		}, {
+			"username":	"tsuki"
+		}, {
+			"username":	"will"
+		}, {
+			"username":	"cai"
+		}, {
+			"username":	"chris"
+		}]
+}
+
+2015-09-11 02:02:11 - send {
+	"type":	"friend-list",
+	"size":	5,
+	"list":	[{
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"niang",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}, {
+			"username":	"tsuki",
+			"status":	0
+		}, {
+			"username":	"chris",
+			"status":	1
+		}]
+}
+
+2015-09-11 02:02:21 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	2
+		}, {
+			"groupID":	1
+		}]
+}
+
+2015-09-11 02:02:21 - send {
+	"type":	"friend-list",
+	"size":	4,
+	"list":	[{
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"green",
+			"status":	1
+		}, {
+			"username":	"tsuki",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}]
+}
+
+2015-09-11 02:02:31 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	1
+		}, {
+			"groupID":	2
+		}]
+}
+
+2015-09-11 02:02:33 - send {
+	"type":	"group-profile",
+	"member-count":	3,
+	"groupID":	2,
+	"list":	[{
+			"username":	"green"
+		}, {
+			"username":	"sky"
+		}, {
+			"username":	"chris"
+		}]
+}
+
+2015-09-11 02:02:36 - send {
+	"type":	"friend-list",
+	"size":	5,
+	"list":	[{
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"niang",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}, {
+			"username":	"tsuki",
+			"status":	0
+		}, {
+			"username":	"chris",
+			"status":	1
+		}]
+}
+
+2015-09-11 02:0

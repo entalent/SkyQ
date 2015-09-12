@@ -1,0 +1,280 @@
+2015-09-11 01:10:19 - send {"type":"login-receipt","status":1,"username":"sky"}
+
+2015-09-11 01:10:19 - send {
+	"type":	"friend-list",
+	"size":	2,
+	"list":	[{
+			"username":	"green",
+			"status":	0
+		}, {
+			"username":	"niang",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:10:20 - send {
+	"type":	"group-list",
+	"size":	0,
+	"list":	[]
+}
+
+2015-09-11 01:10:29 - send {
+	"type":	"group-list",
+	"size":	0,
+	"list":	[]
+}
+
+2015-09-11 01:10:44 - send {
+	"type":	"friend-list",
+	"size":	2,
+	"list":	[{
+			"username":	"green",
+			"status":	0
+		}, {
+			"username":	"niang",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:10:54 - send {
+	"type":	"group-list",
+	"size":	0,
+	"list":	[]
+}
+
+2015-09-11 01:10:59 - send {"type":"login-receipt","status":1,"username":"green"}
+
+2015-09-11 01:10:59 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"sky",
+			"status":	1
+		}]
+}
+
+2015-09-11 01:10:59 - send {
+	"type":	"group-list",
+	"size":	0,
+	"list":	[]
+}
+
+2015-09-11 01:11:07 - send {
+	"type":	"group-list",
+	"size":	0,
+	"list":	[]
+}
+
+2015-09-11 01:11:10 - send {
+	"type":	"friend-list",
+	"size":	2,
+	"list":	[{
+			"username":	"green",
+			"status":	1
+		}, {
+			"username":	"niang",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:11:20 - send {
+	"type":	"group-list",
+	"size":	0,
+	"list":	[]
+}
+
+2015-09-11 01:11:23 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"sky",
+			"status":	1
+		}]
+}
+
+2015-09-11 01:11:28 - send {
+	"type":	"message/text",
+	"sendto":	"green",
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:11:27",
+	"content":	"66666"
+}
+
+2015-09-11 01:11:33 - send {
+	"type":	"group-list",
+	"size":	0,
+	"list":	[]
+}
+
+2015-09-11 01:11:34 - send {
+	"type":	"friend-list",
+	"size":	2,
+	"list":	[{
+			"username":	"green",
+			"status":	1
+		}, {
+			"username":	"niang",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:11:40 - send {
+	"type":	"message/text",
+	"sendto":	"sky",
+	"sendfrom":	"green",
+	"sendtime":	"2015-09-11 01:11:26",
+	"content":	"wocao "
+}
+
+2015-09-11 01:11:44 - send {
+	"type":	"group-list",
+	"size":	0,
+	"list":	[]
+}
+
+2015-09-11 01:11:48 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"sky",
+			"status":	1
+		}]
+}
+
+2015-09-11 01:11:57 - send {
+	"type":	"group-list",
+	"size":	0,
+	"list":	[]
+}
+
+2015-09-11 01:11:59 - send {
+	"type":	"friend-list",
+	"size":	2,
+	"list":	[{
+			"username":	"green",
+			"status":	1
+		}, {
+			"username":	"niang",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:12:12 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"sky",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:12:22 - send {
+	"type":	"group-list",
+	"size":	0,
+	"list":	[]
+}
+
+2015-09-11 01:12:37 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"sky",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:12:47 - send {
+	"type":	"group-list",
+	"size":	0,
+	"list":	[]
+}
+
+2015-09-11 01:13:02 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"sky",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:13:12 - send {
+	"type":	"group-list",
+	"size":	0,
+	"list":	[]
+}
+
+2015-09-11 01:13:28 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"sky",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:13:38 - send {
+	"type":	"group-list",
+	"size":	0,
+	"list":	[]
+}
+
+2015-09-11 01:13:38 - send {"type":"login-receipt","status":1,"username":"sky"}
+
+2015-09-11 01:13:39 - send {
+	"type":	"friend-list",
+	"size":	2,
+	"list":	[{
+			"username":	"green",
+			"status":	1
+		}, {
+			"username":	"niang",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:13:39 - send {
+	"type":	"group-list",
+	"size":	0,
+	"list":	[]
+}
+
+2015-09-11 01:13:40 - send {
+	"type":	"friend-list",
+	"size":	2,
+	"list":	[{
+			"username":	"green",
+			"status":	1
+		}, {
+			"username":	"niang",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:13:50 - send {
+	"type":	"group-list",
+	"size":	0,
+	"list":	[]
+}
+
+2015-09-11 01:13:53 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"sky",
+			"status":	1
+		}]
+}
+
+2015-09-11 01:14:03 - send {
+	"type":	"group-list",
+	"size":	0,
+	"list":	[]
+}
+
+2015-09-11 01:14:18 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"sky",
+			"status":	0

@@ -1,0 +1,5633 @@
+2015-09-11 01:25:44 - send {"type":"login-receipt","status":1,"username":"sky"}
+
+2015-09-11 01:25:44 - send {
+	"type":	"friend-list",
+	"size":	3,
+	"list":	[{
+			"username":	"green",
+			"status":	0
+		}, {
+			"username":	"niang",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:25:44 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	1
+		}, {
+			"groupID":	2
+		}]
+}
+
+2015-09-11 01:25:46 - send {
+	"type":	"friend-list",
+	"size":	3,
+	"list":	[{
+			"username":	"green",
+			"status":	0
+		}, {
+			"username":	"niang",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:25:48 - send {
+	"type":	"group-profile",
+	"member-count":	5,
+	"groupID":	1,
+	"list":	[{
+			"username":	"sky"
+		}, {
+			"username":	"green"
+		}, {
+			"username":	"tsuki"
+		}, {
+			"username":	"will"
+		}, {
+			"username":	"cai"
+		}]
+}
+
+2015-09-11 01:25:56 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	1
+		}, {
+			"groupID":	2
+		}]
+}
+
+2015-09-11 01:26:11 - send {
+	"type":	"friend-list",
+	"size":	3,
+	"list":	[{
+			"username":	"green",
+			"status":	0
+		}, {
+			"username":	"niang",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:26:15 - send {"type":"login-receipt","status":1,"username":"green"}
+
+2015-09-11 01:26:16 - send {
+	"type":	"friend-list",
+	"size":	4,
+	"list":	[{
+			"username":	"sky",
+			"status":	1
+		}, {
+			"username":	"niang",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}, {
+			"username":	"tsuki",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:26:16 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	2
+		}, {
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:26:16 - send {
+	"type":	"friend-list",
+	"size":	4,
+	"list":	[{
+			"username":	"sky",
+			"status":	1
+		}, {
+			"username":	"niang",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}, {
+			"username":	"tsuki",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:26:18 - send {
+	"type":	"group-profile",
+	"member-count":	5,
+	"groupID":	1,
+	"list":	[{
+			"username":	"sky"
+		}, {
+			"username":	"green"
+		}, {
+			"username":	"tsuki"
+		}, {
+			"username":	"will"
+		}, {
+			"username":	"cai"
+		}]
+}
+
+2015-09-11 01:26:20 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"green",
+	"sendtime":	"2015-09-11 01:26:19",
+	"content":	"6666666",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:26:20 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"green",
+	"sendtime":	"2015-09-11 01:26:19",
+	"content":	"6666666",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:26:20 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	1
+		}, {
+			"groupID":	2
+		}]
+}
+
+2015-09-11 01:26:21 - send {
+	"type":	"group-profile",
+	"member-count":	5,
+	"groupID":	1,
+	"list":	[{
+			"username":	"sky"
+		}, {
+			"username":	"green"
+		}, {
+			"username":	"tsuki"
+		}, {
+			"username":	"will"
+		}, {
+			"username":	"cai"
+		}]
+}
+
+2015-09-11 01:26:22 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"green",
+	"sendtime":	"2015-09-11 01:26:22",
+	"content":	"656",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:26:22 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"green",
+	"sendtime":	"2015-09-11 01:26:22",
+	"content":	"656",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:26:27 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:26:26",
+	"content":	"554455",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:26:27 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:26:26",
+	"content":	"554455",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:26:27 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	2
+		}, {
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:26:35 - send {
+	"type":	"group-profile",
+	"member-count":	5,
+	"groupID":	1,
+	"list":	[{
+			"username":	"sky"
+		}, {
+			"username":	"green"
+		}, {
+			"username":	"tsuki"
+		}, {
+			"username":	"will"
+		}, {
+			"username":	"cai"
+		}]
+}
+
+2015-09-11 01:26:36 - send {
+	"type":	"friend-list",
+	"size":	3,
+	"list":	[{
+			"username":	"green",
+			"status":	1
+		}, {
+			"username":	"niang",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:26:37 - send {
+	"type":	"message/text",
+	"sendto":	"green",
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:26:36",
+	"content":	"43543545345"
+}
+
+2015-09-11 01:26:42 - send {
+	"type":	"friend-list",
+	"size":	4,
+	"list":	[{
+			"username":	"sky",
+			"status":	1
+		}, {
+			"username":	"niang",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}, {
+			"username":	"tsuki",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:26:42 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"green",
+	"sendtime":	"2015-09-11 01:26:41",
+	"content":	"wwww",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:26:42 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"green",
+	"sendtime":	"2015-09-11 01:26:41",
+	"content":	"wwww",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:26:46 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	1
+		}, {
+			"groupID":	2
+		}]
+}
+
+2015-09-11 01:26:51 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	2
+		}, {
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:26:58 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"green",
+	"sendtime":	"2015-09-11 01:26:58",
+	"content":	"ssssss",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:26:58 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"green",
+	"sendtime":	"2015-09-11 01:26:58",
+	"content":	"ssssss",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:27:00 - send {
+	"type":	"friend-list",
+	"size":	3,
+	"list":	[{
+			"username":	"green",
+			"status":	1
+		}, {
+			"username":	"niang",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:27:01 - send {
+	"type":	"message/text",
+	"sendto":	"green",
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:27:01",
+	"content":	"sssss"
+}
+
+2015-09-11 01:27:05 - send {
+	"type":	"group-profile",
+	"member-count":	5,
+	"groupID":	1,
+	"list":	[{
+			"username":	"sky"
+		}, {
+			"username":	"green"
+		}, {
+			"username":	"tsuki"
+		}, {
+			"username":	"will"
+		}, {
+			"username":	"cai"
+		}]
+}
+
+2015-09-11 01:27:06 - send {
+	"type":	"friend-list",
+	"size":	4,
+	"list":	[{
+			"username":	"sky",
+			"status":	1
+		}, {
+			"username":	"niang",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}, {
+			"username":	"tsuki",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:27:10 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"green",
+	"sendtime":	"2015-09-11 01:27:09",
+	"content":	"sssssss",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:27:10 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"green",
+	"sendtime":	"2015-09-11 01:27:09",
+	"content":	"sssssss",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:27:11 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	1
+		}, {
+			"groupID":	2
+		}]
+}
+
+2015-09-11 01:27:17 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	2
+		}, {
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:27:33 - send {"type":"login-receipt","status":1,"username":"sky"}
+
+2015-09-11 01:27:34 - send {
+	"type":	"friend-list",
+	"size":	3,
+	"list":	[{
+			"username":	"green",
+			"status":	0
+		}, {
+			"username":	"niang",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:27:34 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	1
+		}, {
+			"groupID":	2
+		}]
+}
+
+2015-09-11 01:27:36 - send {
+	"type":	"group-profile",
+	"member-count":	5,
+	"groupID":	1,
+	"list":	[{
+			"username":	"sky"
+		}, {
+			"username":	"green"
+		}, {
+			"username":	"tsuki"
+		}, {
+			"username":	"will"
+		}, {
+			"username":	"cai"
+		}]
+}
+
+2015-09-11 01:27:41 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	1
+		}, {
+			"groupID":	2
+		}]
+}
+
+2015-09-11 01:27:50 - send {"type":"login-receipt","status":1,"username":"green"}
+
+2015-09-11 01:27:51 - send {
+	"type":	"friend-list",
+	"size":	4,
+	"list":	[{
+			"username":	"sky",
+			"status":	1
+		}, {
+			"username":	"niang",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}, {
+			"username":	"tsuki",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:27:51 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	2
+		}, {
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:27:54 - send {
+	"type":	"group-profile",
+	"member-count":	5,
+	"groupID":	1,
+	"list":	[{
+			"username":	"sky"
+		}, {
+			"username":	"green"
+		}, {
+			"username":	"tsuki"
+		}, {
+			"username":	"will"
+		}, {
+			"username":	"cai"
+		}]
+}
+
+2015-09-11 01:27:56 - send {
+	"type":	"friend-list",
+	"size":	3,
+	"list":	[{
+			"username":	"green",
+			"status":	1
+		}, {
+			"username":	"niang",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:27:56 - send {
+	"type":	"group-profile",
+	"member-count":	5,
+	"groupID":	1,
+	"list":	[{
+			"username":	"sky"
+		}, {
+			"username":	"green"
+		}, {
+			"username":	"tsuki"
+		}, {
+			"username":	"will"
+		}, {
+			"username":	"cai"
+		}]
+}
+
+2015-09-11 01:27:59 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:27:59",
+	"content":	"cao",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:27:59 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:27:59",
+	"content":	"cao",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:28:00 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	2
+		}, {
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:28:02 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"green",
+	"sendtime":	"2015-09-11 01:28:02",
+	"content":	"ca",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:28:02 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"green",
+	"sendtime":	"2015-09-11 01:28:02",
+	"content":	"ca",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:29:04 - send {"type":"login-receipt","status":1,"username":"sky"}
+
+2015-09-11 01:29:05 - send {
+	"type":	"friend-list",
+	"size":	3,
+	"list":	[{
+			"username":	"green",
+			"status":	0
+		}, {
+			"username":	"niang",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:29:05 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	1
+		}, {
+			"groupID":	2
+		}]
+}
+
+2015-09-11 01:29:12 - send {
+	"type":	"group-profile",
+	"member-count":	5,
+	"groupID":	1,
+	"list":	[{
+			"username":	"sky"
+		}, {
+			"username":	"green"
+		}, {
+			"username":	"tsuki"
+		}, {
+			"username":	"will"
+		}, {
+			"username":	"cai"
+		}]
+}
+
+2015-09-11 01:29:14 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	1
+		}, {
+			"groupID":	2
+		}]
+}
+
+2015-09-11 01:29:21 - send {
+	"type":	"group-profile",
+	"member-count":	5,
+	"groupID":	1,
+	"list":	[{
+			"username":	"sky"
+		}, {
+			"username":	"green"
+		}, {
+			"username":	"tsuki"
+		}, {
+			"username":	"will"
+		}, {
+			"username":	"cai"
+		}]
+}
+
+2015-09-11 01:30:52 - send {"type":"login-receipt","status":1,"username":"sky"}
+
+2015-09-11 01:30:53 - send {
+	"type":	"friend-list",
+	"size":	3,
+	"list":	[{
+			"username":	"green",
+			"status":	0
+		}, {
+			"username":	"niang",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:30:53 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	1
+		}, {
+			"groupID":	2
+		}]
+}
+
+2015-09-11 01:30:54 - send {
+	"type":	"friend-list",
+	"size":	3,
+	"list":	[{
+			"username":	"green",
+			"status":	0
+		}, {
+			"username":	"niang",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:30:54 - send {
+	"type":	"group-profile",
+	"member-count":	5,
+	"groupID":	1,
+	"list":	[{
+			"username":	"sky"
+		}, {
+			"username":	"green"
+		}, {
+			"username":	"tsuki"
+		}, {
+			"username":	"will"
+		}, {
+			"username":	"cai"
+		}]
+}
+
+2015-09-11 01:30:56 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:30:56",
+	"content":	"ddassadsa",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:30:58 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:30:58",
+	"content":	"dadsadasdsa",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:31:04 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	1
+		}, {
+			"groupID":	2
+		}]
+}
+
+2015-09-11 01:31:11 - send {
+	"type":	"group-profile",
+	"member-count":	5,
+	"groupID":	1,
+	"list":	[{
+			"username":	"sky"
+		}, {
+			"username":	"green"
+		}, {
+			"username":	"tsuki"
+		}, {
+			"username":	"will"
+		}, {
+			"username":	"cai"
+		}]
+}
+
+2015-09-11 01:31:11 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:31:11",
+	"content":	"43243423",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:31:16 - send {
+	"type":	"group-profile",
+	"member-count":	2,
+	"groupID":	2,
+	"list":	[{
+			"username":	"green"
+		}, {
+			"username":	"sky"
+		}]
+}
+
+2015-09-11 01:31:19 - send {
+	"type":	"group-profile",
+	"member-count":	5,
+	"groupID":	1,
+	"list":	[{
+			"username":	"sky"
+		}, {
+			"username":	"green"
+		}, {
+			"username":	"tsuki"
+		}, {
+			"username":	"will"
+		}, {
+			"username":	"cai"
+		}]
+}
+
+2015-09-11 01:31:19 - send {
+	"type":	"friend-list",
+	"size":	3,
+	"list":	[{
+			"username":	"green",
+			"status":	0
+		}, {
+			"username":	"niang",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:31:29 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	1
+		}, {
+			"groupID":	2
+		}]
+}
+
+2015-09-11 01:31:31 - send {
+	"type":	"group-profile",
+	"member-count":	5,
+	"groupID":	1,
+	"list":	[{
+			"username":	"sky"
+		}, {
+			"username":	"green"
+		}, {
+			"username":	"tsuki"
+		}, {
+			"username":	"will"
+		}, {
+			"username":	"cai"
+		}]
+}
+
+2015-09-11 01:31:31 - send {
+	"type":	"group-profile",
+	"member-count":	2,
+	"groupID":	2,
+	"list":	[{
+			"username":	"green"
+		}, {
+			"username":	"sky"
+		}]
+}
+
+2015-09-11 01:31:33 - send {
+	"type":	"group-profile",
+	"member-count":	2,
+	"groupID":	2,
+	"list":	[{
+			"username":	"green"
+		}, {
+			"username":	"sky"
+		}]
+}
+
+2015-09-11 01:31:44 - send {
+	"type":	"friend-list",
+	"size":	3,
+	"list":	[{
+			"username":	"green",
+			"status":	0
+		}, {
+			"username":	"niang",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:31:54 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	1
+		}, {
+			"groupID":	2
+		}]
+}
+
+2015-09-11 01:32:09 - send {
+	"type":	"friend-list",
+	"size":	3,
+	"list":	[{
+			"username":	"green",
+			"status":	0
+		}, {
+			"username":	"niang",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:32:19 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	1
+		}, {
+			"groupID":	2
+		}]
+}
+
+2015-09-11 01:32:34 - send {
+	"type":	"friend-list",
+	"size":	3,
+	"list":	[{
+			"username":	"green",
+			"status":	0
+		}, {
+			"username":	"niang",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:32:43 - send {"type":"login-receipt","status":1,"username":"cai"}
+
+2015-09-11 01:32:43 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"green",
+	"sendtime":	"2015-09-11 01:26:19",
+	"content":	"6666666",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:32:43 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"green",
+	"sendtime":	"2015-09-11 01:26:22",
+	"content":	"656",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:32:43 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:26:26",
+	"content":	"554455",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:32:43 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"green",
+	"sendtime":	"2015-09-11 01:26:41",
+	"content":	"wwww",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:32:43 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"green",
+	"sendtime":	"2015-09-11 01:26:58",
+	"content":	"ssssss",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:32:43 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"green",
+	"sendtime":	"2015-09-11 01:27:09",
+	"content":	"sssssss",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:32:43 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:27:59",
+	"content":	"cao",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:32:43 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"green",
+	"sendtime":	"2015-09-11 01:28:02",
+	"content":	"ca",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:32:43 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:30:56",
+	"content":	"ddassadsa",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:32:43 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:30:58",
+	"content":	"dadsadasdsa",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:32:43 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:31:11",
+	"content":	"43243423",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:32:43 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"tsuki",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:32:43 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:32:44 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	1
+		}, {
+			"groupID":	2
+		}]
+}
+
+2015-09-11 01:32:48 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:32:59 - send {
+	"type":	"friend-list",
+	"size":	3,
+	"list":	[{
+			"username":	"green",
+			"status":	0
+		}, {
+			"username":	"niang",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:33:03 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"tsuki",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:33:09 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	1
+		}, {
+			"groupID":	2
+		}]
+}
+
+2015-09-11 01:33:13 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:33:28 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"tsuki",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:33:38 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:33:54 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"tsuki",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:34:02 - send {"type":"login-receipt","status":1,"username":"sky"}
+
+2015-09-11 01:34:03 - send {
+	"type":	"friend-list",
+	"size":	3,
+	"list":	[{
+			"username":	"green",
+			"status":	0
+		}, {
+			"username":	"niang",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:34:03 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	1
+		}, {
+			"groupID":	2
+		}]
+}
+
+2015-09-11 01:34:03 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:34:04 - send {
+	"type":	"friend-list",
+	"size":	3,
+	"list":	[{
+			"username":	"green",
+			"status":	0
+		}, {
+			"username":	"niang",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:34:05 - send {
+	"type":	"group-profile",
+	"member-count":	5,
+	"groupID":	1,
+	"list":	[{
+			"username":	"sky"
+		}, {
+			"username":	"green"
+		}, {
+			"username":	"tsuki"
+		}, {
+			"username":	"will"
+		}, {
+			"username":	"cai"
+		}]
+}
+
+2015-09-11 01:34:06 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:34:05",
+	"content":	"eqewq",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:34:06 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:34:05",
+	"content":	"eqewq",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:34:14 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	1
+		}, {
+			"groupID":	2
+		}]
+}
+
+2015-09-11 01:34:24 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:34:24",
+	"content":	"qweqwewqwq",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:34:25 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:34:24",
+	"content":	"qweqwewqwq",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:34:25 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"tsuki",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:34:29 - send {
+	"type":	"friend-list",
+	"size":	3,
+	"list":	[{
+			"username":	"green",
+			"status":	0
+		}, {
+			"username":	"niang",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:34:34 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:34:35 - send {
+	"type":	"group-profile",
+	"member-count":	2,
+	"groupID":	2,
+	"list":	[{
+			"username":	"green"
+		}, {
+			"username":	"sky"
+		}]
+}
+
+2015-09-11 01:34:38 - send {
+	"type":	"group-profile",
+	"member-count":	5,
+	"groupID":	1,
+	"list":	[{
+			"username":	"sky"
+		}, {
+			"username":	"green"
+		}, {
+			"username":	"tsuki"
+		}, {
+			"username":	"will"
+		}, {
+			"username":	"cai"
+		}]
+}
+
+2015-09-11 01:34:39 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	1
+		}, {
+			"groupID":	2
+		}]
+}
+
+2015-09-11 01:34:43 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"tsuki",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:34:44 - send {
+	"type":	"group-profile",
+	"member-count":	2,
+	"groupID":	2,
+	"list":	[{
+			"username":	"green"
+		}, {
+			"username":	"sky"
+		}]
+}
+
+2015-09-11 01:34:53 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:34:54 - send {
+	"type":	"friend-list",
+	"size":	3,
+	"list":	[{
+			"username":	"green",
+			"status":	0
+		}, {
+			"username":	"niang",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:35:04 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	1
+		}, {
+			"groupID":	2
+		}]
+}
+
+2015-09-11 01:35:08 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"tsuki",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:35:18 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:35:33 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"tsuki",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:35:44 - send {"type":"login-receipt","status":1,"username":"sky"}
+
+2015-09-11 01:35:45 - send {
+	"type":	"friend-list",
+	"size":	3,
+	"list":	[{
+			"username":	"green",
+			"status":	0
+		}, {
+			"username":	"niang",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:35:45 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	1
+		}, {
+			"groupID":	2
+		}]
+}
+
+2015-09-11 01:35:46 - send {
+	"type":	"friend-list",
+	"size":	3,
+	"list":	[{
+			"username":	"green",
+			"status":	0
+		}, {
+			"username":	"niang",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:35:47 - send {
+	"type":	"group-profile",
+	"member-count":	5,
+	"groupID":	1,
+	"list":	[{
+			"username":	"sky"
+		}, {
+			"username":	"green"
+		}, {
+			"username":	"tsuki"
+		}, {
+			"username":	"will"
+		}, {
+			"username":	"cai"
+		}]
+}
+
+2015-09-11 01:35:48 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:35:47",
+	"content":	"666",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:35:56 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	1
+		}, {
+			"groupID":	2
+		}]
+}
+
+2015-09-11 01:36:00 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:35:59",
+	"content":	"5345435435",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:36:02 - send {
+	"type":	"group-profile",
+	"member-count":	2,
+	"groupID":	2,
+	"list":	[{
+			"username":	"green"
+		}, {
+			"username":	"sky"
+		}]
+}
+
+2015-09-11 01:36:02 - send {
+	"type":	"group-profile",
+	"member-count":	5,
+	"groupID":	1,
+	"list":	[{
+			"username":	"sky"
+		}, {
+			"username":	"green"
+		}, {
+			"username":	"tsuki"
+		}, {
+			"username":	"will"
+		}, {
+			"username":	"cai"
+		}]
+}
+
+2015-09-11 01:36:02 - send {
+	"type":	"group-profile",
+	"member-count":	2,
+	"groupID":	2,
+	"list":	[{
+			"username":	"green"
+		}, {
+			"username":	"sky"
+		}]
+}
+
+2015-09-11 01:36:02 - send {
+	"type":	"group-profile",
+	"member-count":	5,
+	"groupID":	1,
+	"list":	[{
+			"username":	"sky"
+		}, {
+			"username":	"green"
+		}, {
+			"username":	"tsuki"
+		}, {
+			"username":	"will"
+		}, {
+			"username":	"cai"
+		}]
+}
+
+2015-09-11 01:36:11 - send {
+	"type":	"friend-list",
+	"size":	3,
+	"list":	[{
+			"username":	"green",
+			"status":	0
+		}, {
+			"username":	"niang",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:36:13 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:36:12",
+	"content":	"twrewqtrewtq",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:36:14 - send {
+	"type":	"group-profile",
+	"member-count":	2,
+	"groupID":	2,
+	"list":	[{
+			"username":	"green"
+		}, {
+			"username":	"sky"
+		}]
+}
+
+2015-09-11 01:36:14 - send {
+	"type":	"group-profile",
+	"member-count":	5,
+	"groupID":	1,
+	"list":	[{
+			"username":	"sky"
+		}, {
+			"username":	"green"
+		}, {
+			"username":	"tsuki"
+		}, {
+			"username":	"will"
+		}, {
+			"username":	"cai"
+		}]
+}
+
+2015-09-11 01:36:16 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:36:16",
+	"content":	"tetretr",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:36:18 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:36:18",
+	"content":	"ertet",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:36:21 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	1
+		}, {
+			"groupID":	2
+		}]
+}
+
+2015-09-11 01:36:35 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:36:35",
+	"content":	"ewrwe",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:36:37 - send {
+	"type":	"friend-list",
+	"size":	3,
+	"list":	[{
+			"username":	"green",
+			"status":	0
+		}, {
+			"username":	"niang",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:37:01 - send {"type":"login-receipt","status":1,"username":"sky"}
+
+2015-09-11 01:37:02 - send {
+	"type":	"friend-list",
+	"size":	3,
+	"list":	[{
+			"username":	"green",
+			"status":	0
+		}, {
+			"username":	"niang",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:37:02 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	1
+		}, {
+			"groupID":	2
+		}]
+}
+
+2015-09-11 01:37:04 - send {
+	"type":	"friend-list",
+	"size":	3,
+	"list":	[{
+			"username":	"green",
+			"status":	0
+		}, {
+			"username":	"niang",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:37:04 - send {
+	"type":	"group-profile",
+	"member-count":	5,
+	"groupID":	1,
+	"list":	[{
+			"username":	"sky"
+		}, {
+			"username":	"green"
+		}, {
+			"username":	"tsuki"
+		}, {
+			"username":	"will"
+		}, {
+			"username":	"cai"
+		}]
+}
+
+2015-09-11 01:37:06 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:37:05",
+	"content":	"eewewqewq",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:37:13 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	1
+		}, {
+			"groupID":	2
+		}]
+}
+
+2015-09-11 01:37:28 - send {
+	"type":	"friend-list",
+	"size":	3,
+	"list":	[{
+			"username":	"green",
+			"status":	0
+		}, {
+			"username":	"niang",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:37:38 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	1
+		}, {
+			"groupID":	2
+		}]
+}
+
+2015-09-11 01:38:13 - send {"type":"login-receipt","status":1,"username":"sky"}
+
+2015-09-11 01:38:14 - send {
+	"type":	"friend-list",
+	"size":	3,
+	"list":	[{
+			"username":	"green",
+			"status":	0
+		}, {
+			"username":	"niang",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:38:14 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	1
+		}, {
+			"groupID":	2
+		}]
+}
+
+2015-09-11 01:38:16 - send {
+	"type":	"friend-list",
+	"size":	3,
+	"list":	[{
+			"username":	"green",
+			"status":	0
+		}, {
+			"username":	"niang",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:38:16 - send {
+	"type":	"group-profile",
+	"member-count":	5,
+	"groupID":	1,
+	"list":	[{
+			"username":	"sky"
+		}, {
+			"username":	"green"
+		}, {
+			"username":	"tsuki"
+		}, {
+			"username":	"will"
+		}, {
+			"username":	"cai"
+		}]
+}
+
+2015-09-11 01:38:18 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:38:17",
+	"content":	"eqewqewqewqewq",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:38:25 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	1
+		}, {
+			"groupID":	2
+		}]
+}
+
+2015-09-11 01:38:40 - send {
+	"type":	"friend-list",
+	"size":	3,
+	"list":	[{
+			"username":	"green",
+			"status":	0
+		}, {
+			"username":	"niang",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:38:50 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	1
+		}, {
+			"groupID":	2
+		}]
+}
+
+2015-09-11 01:39:06 - send {
+	"type":	"friend-list",
+	"size":	3,
+	"list":	[{
+			"username":	"green",
+			"status":	0
+		}, {
+			"username":	"niang",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:39:16 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	1
+		}, {
+			"groupID":	2
+		}]
+}
+
+2015-09-11 01:39:45 - send {"type":"login-receipt","status":1,"username":"sky"}
+
+2015-09-11 01:39:46 - send {
+	"type":	"friend-list",
+	"size":	3,
+	"list":	[{
+			"username":	"green",
+			"status":	0
+		}, {
+			"username":	"niang",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:39:46 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	1
+		}, {
+			"groupID":	2
+		}]
+}
+
+2015-09-11 01:39:48 - send {
+	"type":	"group-profile",
+	"member-count":	5,
+	"groupID":	1,
+	"list":	[{
+			"username":	"sky"
+		}, {
+			"username":	"green"
+		}, {
+			"username":	"tsuki"
+		}, {
+			"username":	"will"
+		}, {
+			"username":	"cai"
+		}]
+}
+
+2015-09-11 01:39:49 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:39:48",
+	"content":	"qewqeqwe",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:39:56 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	1
+		}, {
+			"groupID":	2
+		}]
+}
+
+2015-09-11 01:40:11 - send {
+	"type":	"friend-list",
+	"size":	3,
+	"list":	[{
+			"username":	"green",
+			"status":	0
+		}, {
+			"username":	"niang",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:40:21 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	1
+		}, {
+			"groupID":	2
+		}]
+}
+
+2015-09-11 01:40:36 - send {
+	"type":	"friend-list",
+	"size":	3,
+	"list":	[{
+			"username":	"green",
+			"status":	0
+		}, {
+			"username":	"niang",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:41:04 - send {"type":"login-receipt","status":1,"username":"sky"}
+
+2015-09-11 01:41:05 - send {
+	"type":	"friend-list",
+	"size":	3,
+	"list":	[{
+			"username":	"green",
+			"status":	0
+		}, {
+			"username":	"niang",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:41:05 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	1
+		}, {
+			"groupID":	2
+		}]
+}
+
+2015-09-11 01:41:06 - send {
+	"type":	"friend-list",
+	"size":	3,
+	"list":	[{
+			"username":	"green",
+			"status":	0
+		}, {
+			"username":	"niang",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:41:12 - send {
+	"type":	"group-profile",
+	"member-count":	5,
+	"groupID":	1,
+	"list":	[{
+			"username":	"sky"
+		}, {
+			"username":	"green"
+		}, {
+			"username":	"tsuki"
+		}, {
+			"username":	"will"
+		}, {
+			"username":	"cai"
+		}]
+}
+
+2015-09-11 01:41:16 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	1
+		}, {
+			"groupID":	2
+		}]
+}
+
+2015-09-11 01:41:20 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:41:19",
+	"content":	"qeweqwwq",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:41:30 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:41:30",
+	"content":	"qewqewq",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:41:30 - send {
+	"type":	"friend-list",
+	"size":	3,
+	"list":	[{
+			"username":	"green",
+			"status":	0
+		}, {
+			"username":	"niang",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:41:40 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	1
+		}, {
+			"groupID":	2
+		}]
+}
+
+2015-09-11 01:41:44 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:41:44",
+	"content":	"wrewrewrewew",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:41:55 - send {
+	"type":	"friend-list",
+	"size":	3,
+	"list":	[{
+			"username":	"green",
+			"status":	0
+		}, {
+			"username":	"niang",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:42:05 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	1
+		}, {
+			"groupID":	2
+		}]
+}
+
+2015-09-11 01:42:36 - send {"type":"login-receipt","status":1,"username":"sky"}
+
+2015-09-11 01:42:37 - send {
+	"type":	"friend-list",
+	"size":	3,
+	"list":	[{
+			"username":	"green",
+			"status":	0
+		}, {
+			"username":	"niang",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:42:37 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	1
+		}, {
+			"groupID":	2
+		}]
+}
+
+2015-09-11 01:42:38 - send {
+	"type":	"group-profile",
+	"member-count":	2,
+	"groupID":	2,
+	"list":	[{
+			"username":	"green"
+		}, {
+			"username":	"sky"
+		}]
+}
+
+2015-09-11 01:42:38 - send {
+	"type":	"friend-list",
+	"size":	3,
+	"list":	[{
+			"username":	"green",
+			"status":	0
+		}, {
+			"username":	"niang",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:42:38 - send {
+	"type":	"group-profile",
+	"member-count":	5,
+	"groupID":	1,
+	"list":	[{
+			"username":	"sky"
+		}, {
+			"username":	"green"
+		}, {
+			"username":	"tsuki"
+		}, {
+			"username":	"will"
+		}, {
+			"username":	"cai"
+		}]
+}
+
+2015-09-11 01:42:40 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:42:40",
+	"content":	"666666",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:42:42 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:42:42",
+	"content":	"666666",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:05 - send {"type":"login-receipt","status":1,"username":"green"}
+
+2015-09-11 01:46:06 - send {
+	"type":	"message/text",
+	"sendto":	"green",
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:29:07",
+	"content":	"ffdsfds"
+}
+
+2015-09-11 01:46:06 - send {
+	"type":	"message/text",
+	"sendto":	"green",
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:29:10",
+	"content":	"fsfdsfdsdfsfdfs"
+}
+
+2015-09-11 01:46:06 - send {
+	"type":	"message/text",
+	"sendto":	"green",
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:29:13",
+	"content":	"sdfsdf"
+}
+
+2015-09-11 01:46:06 - send {
+	"type":	"message/text",
+	"sendto":	"green",
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:29:15",
+	"content":	"sfsfsd"
+}
+
+2015-09-11 01:46:06 - send {
+	"type":	"message/text",
+	"sendto":	"green",
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:29:19",
+	"content":	"gun"
+}
+
+2015-09-11 01:46:06 - send {
+	"type":	"message/text",
+	"sendto":	"green",
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:29:23",
+	"content":	"gnu"
+}
+
+2015-09-11 01:46:06 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:30:56",
+	"content":	"ddassadsa",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:06 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:30:58",
+	"content":	"dadsadasdsa",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:06 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:31:11",
+	"content":	"43243423",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:06 - send {
+	"type":	"message/text",
+	"sendto":	"green",
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:31:14",
+	"content":	"42343232"
+}
+
+2015-09-11 01:46:06 - send {
+	"type":	"message/text",
+	"sendto":	"green",
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:31:17",
+	"content":	"34324322"
+}
+
+2015-09-11 01:46:06 - send {
+	"type":	"message/text",
+	"sendto":	"green",
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:31:20",
+	"content":	"23432432"
+}
+
+2015-09-11 01:46:06 - send {
+	"type":	"message/text",
+	"sendto":	"green",
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:31:22",
+	"content":	"3243243232"
+}
+
+2015-09-11 01:46:06 - send {
+	"type":	"message/text",
+	"sendto":	"green",
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:31:35",
+	"content":	"4343"
+}
+
+2015-09-11 01:46:06 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:34:05",
+	"content":	"eqewq",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:06 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:34:24",
+	"content":	"qweqwewqwq",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:06 - send {
+	"type":	"message/text",
+	"sendto":	"green",
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:34:32",
+	"content":	"fsdsfdsfdsf"
+}
+
+2015-09-11 01:46:06 - send {
+	"type":	"message/text",
+	"sendto":	"green",
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:34:36",
+	"content":	"sdfdsfds"
+}
+
+2015-09-11 01:46:06 - send {
+	"type":	"message/text",
+	"sendto":	"green",
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:34:39",
+	"content":	"sdfdsfds"
+}
+
+2015-09-11 01:46:06 - send {
+	"type":	"message/text",
+	"sendto":	"green",
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:34:42",
+	"content":	"sdfdsfdsdsffdsdsfds"
+}
+
+2015-09-11 01:46:06 - send {
+	"type":	"message/text",
+	"sendto":	"green",
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:34:45",
+	"content":	"sffd"
+}
+
+2015-09-11 01:46:06 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:35:47",
+	"content":	"666",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:06 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:35:59",
+	"content":	"5345435435",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:06 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:36:12",
+	"content":	"twrewqtrewtq",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:06 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:36:16",
+	"content":	"tetretr",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:06 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:36:18",
+	"content":	"ertet",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:06 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:36:35",
+	"content":	"ewrwe",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:06 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:37:05",
+	"content":	"eewewqewq",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:06 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:38:17",
+	"content":	"eqewqewqewqewq",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:06 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:39:48",
+	"content":	"qewqeqwe",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:06 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:41:19",
+	"content":	"qeweqwwq",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:06 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:41:30",
+	"content":	"qewqewq",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:06 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:41:44",
+	"content":	"wrewrewrewew",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:06 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:42:40",
+	"content":	"666666",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:06 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:42:42",
+	"content":	"666666",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:06 - send {
+	"type":	"friend-list",
+	"size":	4,
+	"list":	[{
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"niang",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}, {
+			"username":	"tsuki",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:46:06 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	2
+		}, {
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:46:08 - send {
+	"type":	"group-profile",
+	"member-count":	5,
+	"groupID":	1,
+	"list":	[{
+			"username":	"sky"
+		}, {
+			"username":	"green"
+		}, {
+			"username":	"tsuki"
+		}, {
+			"username":	"will"
+		}, {
+			"username":	"cai"
+		}]
+}
+
+2015-09-11 01:46:12 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"green",
+	"sendtime":	"2015-09-11 01:45:58",
+	"content":	"wole gao\n",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:13 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	2
+		}, {
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:46:15 - send {
+	"type":	"group-profile",
+	"member-count":	2,
+	"groupID":	2,
+	"list":	[{
+			"username":	"green"
+		}, {
+			"username":	"sky"
+		}]
+}
+
+2015-09-11 01:46:18 - send {
+	"type":	"message/text/group",
+	"sendto":	2,
+	"sendfrom":	"green",
+	"sendtime":	"2015-09-11 01:46:03",
+	"content":	"hehehee",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:26 - send {"type":"login-receipt","status":1,"username":"cai"}
+
+2015-09-11 01:46:26 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:35:47",
+	"content":	"666",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:26 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:35:59",
+	"content":	"5345435435",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:26 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:36:12",
+	"content":	"twrewqtrewtq",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:26 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:36:16",
+	"content":	"tetretr",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:26 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:36:18",
+	"content":	"ertet",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:26 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:36:35",
+	"content":	"ewrwe",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:26 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:37:05",
+	"content":	"eewewqewq",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:26 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:38:17",
+	"content":	"eqewqewqewqewq",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:26 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:39:48",
+	"content":	"qewqeqwe",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:26 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:41:19",
+	"content":	"qeweqwwq",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:26 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:41:30",
+	"content":	"qewqewq",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:26 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:41:44",
+	"content":	"wrewrewrewew",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:26 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:42:40",
+	"content":	"666666",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:26 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:42:42",
+	"content":	"666666",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:26 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"green",
+	"sendtime":	"2015-09-11 01:45:58",
+	"content":	"wole gao\n",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:27 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"tsuki",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:46:28 - send {
+	"type":	"friend-list",
+	"size":	4,
+	"list":	[{
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"niang",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}, {
+			"username":	"tsuki",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:46:32 - send {"type":"login-receipt","status":1,"username":"tsuki"}
+
+2015-09-11 01:46:32 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"green",
+	"sendtime":	"2015-09-11 01:26:19",
+	"content":	"6666666",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:32 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"green",
+	"sendtime":	"2015-09-11 01:26:22",
+	"content":	"656",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:32 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:26:26",
+	"content":	"554455",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:32 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"green",
+	"sendtime":	"2015-09-11 01:26:41",
+	"content":	"wwww",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:32 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"green",
+	"sendtime":	"2015-09-11 01:26:58",
+	"content":	"ssssss",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:32 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"green",
+	"sendtime":	"2015-09-11 01:27:09",
+	"content":	"sssssss",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:32 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:27:59",
+	"content":	"cao",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:32 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"green",
+	"sendtime":	"2015-09-11 01:28:02",
+	"content":	"ca",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:32 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:30:56",
+	"content":	"ddassadsa",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:32 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:30:58",
+	"content":	"dadsadasdsa",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:32 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:31:11",
+	"content":	"43243423",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:32 - send {
+	"type":	"message/text",
+	"sendto":	"tsuki",
+	"sendfrom":	"cai",
+	"sendtime":	"2015-09-11 01:33:04",
+	"content":	"lll\n"
+}
+
+2015-09-11 01:46:32 - send {
+	"type":	"message/text",
+	"sendto":	"tsuki",
+	"sendfrom":	"cai",
+	"sendtime":	"2015-09-11 01:33:23",
+	"content":	"/wx"
+}
+
+2015-09-11 01:46:32 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:34:05",
+	"content":	"eqewq",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:32 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:34:24",
+	"content":	"qweqwewqwq",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:32 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:35:47",
+	"content":	"666",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:32 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:35:59",
+	"content":	"5345435435",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:32 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:36:12",
+	"content":	"twrewqtrewtq",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:32 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:36:16",
+	"content":	"tetretr",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:32 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:36:18",
+	"content":	"ertet",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:32 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:36:35",
+	"content":	"ewrwe",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:32 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:37:05",
+	"content":	"eewewqewq",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:32 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:38:17",
+	"content":	"eqewqewqewqewq",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:32 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:39:48",
+	"content":	"qewqeqwe",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:32 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:41:19",
+	"content":	"qeweqwwq",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:32 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:41:30",
+	"content":	"qewqewq",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:32 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:41:44",
+	"content":	"wrewrewrewew",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:32 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:42:40",
+	"content":	"666666",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:32 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:42:42",
+	"content":	"666666",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:32 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"green",
+	"sendtime":	"2015-09-11 01:45:58",
+	"content":	"wole gao\n",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:33 - send {
+	"type":	"friend-list",
+	"size":	3,
+	"list":	[{
+			"username":	"will",
+			"status":	0
+		}, {
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"green",
+			"status":	1
+		}]
+}
+
+2015-09-11 01:46:33 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:46:36 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:46:36 - send {
+	"type":	"group-profile",
+	"member-count":	5,
+	"groupID":	1,
+	"list":	[{
+			"username":	"sky"
+		}, {
+			"username":	"green"
+		}, {
+			"username":	"tsuki"
+		}, {
+			"username":	"will"
+		}, {
+			"username":	"cai"
+		}]
+}
+
+2015-09-11 01:46:36 - send {
+	"type":	"group-profile",
+	"member-count":	5,
+	"groupID":	1,
+	"list":	[{
+			"username":	"sky"
+		}, {
+			"username":	"green"
+		}, {
+			"username":	"tsuki"
+		}, {
+			"username":	"will"
+		}, {
+			"username":	"cai"
+		}]
+}
+
+2015-09-11 01:46:37 - send {
+	"type":	"group-profile",
+	"member-count":	5,
+	"groupID":	1,
+	"list":	[{
+			"username":	"sky"
+		}, {
+			"username":	"green"
+		}, {
+			"username":	"tsuki"
+		}, {
+			"username":	"will"
+		}, {
+			"username":	"cai"
+		}]
+}
+
+2015-09-11 01:46:37 - send {
+	"type":	"group-profile",
+	"member-count":	5,
+	"groupID":	1,
+	"list":	[{
+			"username":	"sky"
+		}, {
+			"username":	"green"
+		}, {
+			"username":	"tsuki"
+		}, {
+			"username":	"will"
+		}, {
+			"username":	"cai"
+		}]
+}
+
+2015-09-11 01:46:37 - send {
+	"type":	"group-profile",
+	"member-count":	5,
+	"groupID":	1,
+	"list":	[{
+			"username":	"sky"
+		}, {
+			"username":	"green"
+		}, {
+			"username":	"tsuki"
+		}, {
+			"username":	"will"
+		}, {
+			"username":	"cai"
+		}]
+}
+
+2015-09-11 01:46:37 - send {
+	"type":	"group-profile",
+	"member-count":	2,
+	"groupID":	2,
+	"list":	[{
+			"username":	"green"
+		}, {
+			"username":	"sky"
+		}]
+}
+
+2015-09-11 01:46:37 - send {
+	"type":	"group-profile",
+	"member-count":	5,
+	"groupID":	1,
+	"list":	[{
+			"username":	"sky"
+		}, {
+			"username":	"green"
+		}, {
+			"username":	"tsuki"
+		}, {
+			"username":	"will"
+		}, {
+			"username":	"cai"
+		}]
+}
+
+2015-09-11 01:46:37 - send {
+	"type":	"group-profile",
+	"member-count":	5,
+	"groupID":	1,
+	"list":	[{
+			"username":	"sky"
+		}, {
+			"username":	"green"
+		}, {
+			"username":	"tsuki"
+		}, {
+			"username":	"will"
+		}, {
+			"username":	"cai"
+		}]
+}
+
+2015-09-11 01:46:38 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	2
+		}, {
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:46:38 - send {
+	"type":	"group-profile",
+	"member-count":	5,
+	"groupID":	1,
+	"list":	[{
+			"username":	"sky"
+		}, {
+			"username":	"green"
+		}, {
+			"username":	"tsuki"
+		}, {
+			"username":	"will"
+		}, {
+			"username":	"cai"
+		}]
+}
+
+2015-09-11 01:46:39 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:46:39 - send {
+	"type":	"group-profile",
+	"member-count":	2,
+	"groupID":	2,
+	"list":	[{
+			"username":	"green"
+		}, {
+			"username":	"sky"
+		}]
+}
+
+2015-09-11 01:46:40 - send {
+	"type":	"group-profile",
+	"member-count":	5,
+	"groupID":	1,
+	"list":	[{
+			"username":	"sky"
+		}, {
+			"username":	"green"
+		}, {
+			"username":	"tsuki"
+		}, {
+			"username":	"will"
+		}, {
+			"username":	"cai"
+		}]
+}
+
+2015-09-11 01:46:41 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"tsuki",
+	"sendtime":	"2015-09-11 14:46:27",
+	"content":	"hahaha",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:41 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"tsuki",
+	"sendtime":	"2015-09-11 14:46:27",
+	"content":	"hahaha",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:41 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"tsuki",
+	"sendtime":	"2015-09-11 14:46:27",
+	"content":	"hahaha",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:44 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"cai",
+	"sendtime":	"2015-09-11 01:46:48",
+	"content":	"wwww\n",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:44 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"cai",
+	"sendtime":	"2015-09-11 01:46:48",
+	"content":	"wwww\n",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:44 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"cai",
+	"sendtime":	"2015-09-11 01:46:48",
+	"content":	"wwww\n",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:46 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"green",
+	"sendtime":	"2015-09-11 01:46:31",
+	"content":	"xixi",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:46 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"green",
+	"sendtime":	"2015-09-11 01:46:31",
+	"content":	"xixi",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:46 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"green",
+	"sendtime":	"2015-09-11 01:46:31",
+	"content":	"xixi",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:51 - send {
+	"type":	"group-profile",
+	"member-count":	5,
+	"groupID":	1,
+	"list":	[{
+			"username":	"sky"
+		}, {
+			"username":	"green"
+		}, {
+			"username":	"tsuki"
+		}, {
+			"username":	"will"
+		}, {
+			"username":	"cai"
+		}]
+}
+
+2015-09-11 01:46:51 - send {
+	"type":	"group-profile",
+	"member-count":	5,
+	"groupID":	1,
+	"list":	[{
+			"username":	"sky"
+		}, {
+			"username":	"green"
+		}, {
+			"username":	"tsuki"
+		}, {
+			"username":	"will"
+		}, {
+			"username":	"cai"
+		}]
+}
+
+2015-09-11 01:46:51 - send {
+	"type":	"group-profile",
+	"member-count":	5,
+	"groupID":	1,
+	"list":	[{
+			"username":	"sky"
+		}, {
+			"username":	"green"
+		}, {
+			"username":	"tsuki"
+		}, {
+			"username":	"will"
+		}, {
+			"username":	"cai"
+		}]
+}
+
+2015-09-11 01:46:51 - send {
+	"type":	"group-profile",
+	"member-count":	5,
+	"groupID":	1,
+	"list":	[{
+			"username":	"sky"
+		}, {
+			"username":	"green"
+		}, {
+			"username":	"tsuki"
+		}, {
+			"username":	"will"
+		}, {
+			"username":	"cai"
+		}]
+}
+
+2015-09-11 01:46:51 - send {
+	"type":	"group-profile",
+	"member-count":	5,
+	"groupID":	1,
+	"list":	[{
+			"username":	"sky"
+		}, {
+			"username":	"green"
+		}, {
+			"username":	"tsuki"
+		}, {
+			"username":	"will"
+		}, {
+			"username":	"cai"
+		}]
+}
+
+2015-09-11 01:46:51 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"tsuki",
+			"status":	1
+		}]
+}
+
+2015-09-11 01:46:53 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"cai",
+	"sendtime":	"2015-09-11 01:46:57",
+	"content":	"/wx",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:53 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"cai",
+	"sendtime":	"2015-09-11 01:46:57",
+	"content":	"/wx",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:53 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"cai",
+	"sendtime":	"2015-09-11 01:46:57",
+	"content":	"/wx",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:53 - send {
+	"type":	"friend-list",
+	"size":	4,
+	"list":	[{
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"niang",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	0
+		}, {
+			"username":	"tsuki",
+			"status":	1
+		}]
+}
+
+2015-09-11 01:46:54 - send {
+	"type":	"friend-list",
+	"size":	3,
+	"list":	[{
+			"username":	"will",
+			"status":	0
+		}, {
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"green",
+			"status":	1
+		}]
+}
+
+2015-09-11 01:46:56 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"tsuki",
+	"sendtime":	"2015-09-11 14:46:42",
+	"content":	"asdasdacxzcdqweqeqweasdsadadadds",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:56 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"tsuki",
+	"sendtime":	"2015-09-11 14:46:42",
+	"content":	"asdasdacxzcdqweqeqweasdsadadadds",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:56 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"tsuki",
+	"sendtime":	"2015-09-11 14:46:42",
+	"content":	"asdasdacxzcdqweqeqweasdsadadadds",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:58 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"cai",
+	"sendtime":	"2015-09-11 01:47:03",
+	"content":	"daadad\n",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:58 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"cai",
+	"sendtime":	"2015-09-11 01:47:03",
+	"content":	"daadad\n",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:46:58 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"cai",
+	"sendtime":	"2015-09-11 01:47:03",
+	"content":	"daadad\n",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:47:00 - send {
+	"type":	"message/text",
+	"sendto":	"tsuki",
+	"sendfrom":	"green",
+	"sendtime":	"2015-09-11 01:46:46",
+	"content":	"sha diao"
+}
+
+2015-09-11 01:47:00 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"tsuki",
+	"sendtime":	"2015-09-11 14:46:47",
+	"content":	"/am",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:47:00 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"tsuki",
+	"sendtime":	"2015-09-11 14:46:47",
+	"content":	"/am",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:47:00 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"tsuki",
+	"sendtime":	"2015-09-11 14:46:47",
+	"content":	"/am",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:47:01 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:47:04 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	2
+		}, {
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:47:05 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:47:05 - send {"type":"login-receipt","status":1,"username":"will"}
+
+2015-09-11 01:47:06 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"green",
+	"sendtime":	"2015-09-11 01:26:19",
+	"content":	"6666666",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:47:06 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"green",
+	"sendtime":	"2015-09-11 01:26:22",
+	"content":	"656",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:47:06 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:26:26",
+	"content":	"554455",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:47:06 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"green",
+	"sendtime":	"2015-09-11 01:26:41",
+	"content":	"wwww",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:47:06 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"green",
+	"sendtime":	"2015-09-11 01:26:58",
+	"content":	"ssssss",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:47:06 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"green",
+	"sendtime":	"2015-09-11 01:27:09",
+	"content":	"sssssss",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:47:06 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:27:59",
+	"content":	"cao",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:47:06 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"green",
+	"sendtime":	"2015-09-11 01:28:02",
+	"content":	"ca",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:47:06 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:30:56",
+	"content":	"ddassadsa",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:47:06 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:30:58",
+	"content":	"dadsadasdsa",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:47:06 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:31:11",
+	"content":	"43243423",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:47:06 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:34:05",
+	"content":	"eqewq",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:47:06 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:34:24",
+	"content":	"qweqwewqwq",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:47:06 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:35:47",
+	"content":	"666",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:47:06 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:35:59",
+	"content":	"5345435435",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:47:06 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:36:12",
+	"content":	"twrewqtrewtq",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:47:06 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:36:16",
+	"content":	"tetretr",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:47:06 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:36:18",
+	"content":	"ertet",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:47:06 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:36:35",
+	"content":	"ewrwe",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:47:06 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:37:05",
+	"content":	"eewewqewq",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:47:06 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:38:17",
+	"content":	"eqewqewqewqewq",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:47:06 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:39:48",
+	"content":	"qewqeqwe",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:47:06 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:41:19",
+	"content":	"qeweqwwq",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:47:06 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:41:30",
+	"content":	"qewqewq",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:47:06 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:41:44",
+	"content":	"wrewrewrewew",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:47:06 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:42:40",
+	"content":	"666666",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:47:06 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"sky",
+	"sendtime":	"2015-09-11 01:42:42",
+	"content":	"666666",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:47:06 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"green",
+	"sendtime":	"2015-09-11 01:45:58",
+	"content":	"wole gao\n",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:47:06 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"tsuki",
+	"sendtime":	"2015-09-11 14:46:27",
+	"content":	"hahaha",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:47:06 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"cai",
+	"sendtime":	"2015-09-11 01:46:48",
+	"content":	"wwww\n",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:47:06 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"green",
+	"sendtime":	"2015-09-11 01:46:31",
+	"content":	"xixi",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:47:06 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"cai",
+	"sendtime":	"2015-09-11 01:46:57",
+	"content":	"/wx",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:47:06 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"tsuki",
+	"sendtime":	"2015-09-11 14:46:42",
+	"content":	"asdasdacxzcdqweqeqweasdsadadadds",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:47:06 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"cai",
+	"sendtime":	"2015-09-11 01:47:03",
+	"content":	"daadad\n",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:47:06 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"tsuki",
+	"sendtime":	"2015-09-11 14:46:47",
+	"content":	"/am",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:47:06 - send {
+	"type":	"friend-list",
+	"size":	3,
+	"list":	[{
+			"username":	"green",
+			"status":	1
+		}, {
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"tsuki",
+			"status":	1
+		}]
+}
+
+2015-09-11 01:47:06 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:47:10 - send {
+	"type":	"group-profile",
+	"member-count":	5,
+	"groupID":	1,
+	"list":	[{
+			"username":	"sky"
+		}, {
+			"username":	"green"
+		}, {
+			"username":	"tsuki"
+		}, {
+			"username":	"will"
+		}, {
+			"username":	"cai"
+		}]
+}
+
+2015-09-11 01:47:15 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:47:16 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"tsuki",
+			"status":	1
+		}]
+}
+
+2015-09-11 01:47:17 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"will",
+	"sendtime":	"2015-09-11 01:47:57",
+	"content":	"fdsagsa",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:47:17 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"will",
+	"sendtime":	"2015-09-11 01:47:57",
+	"content":	"fdsagsa",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:47:17 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"will",
+	"sendtime":	"2015-09-11 01:47:57",
+	"content":	"fdsagsa",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:47:17 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"will",
+	"sendtime":	"2015-09-11 01:47:57",
+	"content":	"fdsagsa",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:47:19 - send {
+	"type":	"friend-list",
+	"size":	4,
+	"list":	[{
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"niang",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	1
+		}, {
+			"username":	"tsuki",
+			"status":	1
+		}]
+}
+
+2015-09-11 01:47:19 - send {
+	"type":	"message/text",
+	"sendto":	"green",
+	"sendfrom":	"tsuki",
+	"sendtime":	"2015-09-11 14:47:05",
+	"content":	"asdadazcfwoijqijdsfsddfafasdasdasdasdasd"
+}
+
+2015-09-11 01:47:19 - send {
+	"type":	"friend-list",
+	"size":	3,
+	"list":	[{
+			"username":	"will",
+			"status":	1
+		}, {
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"green",
+			"status":	1
+		}]
+}
+
+2015-09-11 01:47:23 - send {
+	"type":	"message/text",
+	"sendto":	"green",
+	"sendfrom":	"tsuki",
+	"sendtime":	"2015-09-11 14:47:09",
+	"content":	"shabi\n"
+}
+
+2015-09-11 01:47:24 - send {
+	"type":	"message/text",
+	"sendto":	"tsuki",
+	"sendfrom":	"cai",
+	"sendtime":	"2015-09-11 01:47:28",
+	"content":	"ssaassa\n"
+}
+
+2015-09-11 01:47:25 - send {
+	"type":	"message/text",
+	"sendto":	"green",
+	"sendfrom":	"tsuki",
+	"sendtime":	"2015-09-11 14:47:11",
+	"content":	"cao"
+}
+
+2015-09-11 01:47:26 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:47:28 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	2
+		}, {
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:47:29 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:47:30 - send {
+	"type":	"friend-list",
+	"size":	3,
+	"list":	[{
+			"username":	"green",
+			"status":	1
+		}, {
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"tsuki",
+			"status":	1
+		}]
+}
+
+2015-09-11 01:47:40 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:47:41 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"tsuki",
+			"status":	1
+		}]
+}
+
+2015-09-11 01:47:43 - send {
+	"type":	"friend-list",
+	"size":	4,
+	"list":	[{
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"niang",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	1
+		}, {
+			"username":	"tsuki",
+			"status":	1
+		}]
+}
+
+2015-09-11 01:47:44 - send {
+	"type":	"friend-list",
+	"size":	3,
+	"list":	[{
+			"username":	"will",
+			"status":	1
+		}, {
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"green",
+			"status":	1
+		}]
+}
+
+2015-09-11 01:47:49 - send {
+	"type":	"add-to-contact-receipt",
+	"username":	"tsuki",
+	"contact":	"cai",
+	"status":	1
+}
+
+2015-09-11 01:47:49 - send {
+	"type":	"friend-list",
+	"size":	4,
+	"list":	[{
+			"username":	"will",
+			"status":	1
+		}, {
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"green",
+			"status":	1
+		}, {
+			"username":	"cai",
+			"status":	1
+		}]
+}
+
+2015-09-11 01:47:51 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:47:53 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	2
+		}, {
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:47:54 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:47:55 - send {
+	"type":	"friend-list",
+	"size":	3,
+	"list":	[{
+			"username":	"green",
+			"status":	1
+		}, {
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"tsuki",
+			"status":	1
+		}]
+}
+
+2015-09-11 01:47:55 - send {
+	"type":	"message/text",
+	"sendto":	"tsuki",
+	"sendfrom":	"cai",
+	"sendtime":	"2015-09-11 01:48:01",
+	"content":	"sdasdasdsad"
+}
+
+2015-09-11 01:47:57 - send {
+	"type":	"message/text",
+	"sendto":	"cai",
+	"sendfrom":	"tsuki",
+	"sendtime":	"2015-09-11 14:47:43",
+	"content":	"/wx/wx"
+}
+
+2015-09-11 01:48:05 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:48:06 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"tsuki",
+			"status":	1
+		}]
+}
+
+2015-09-11 01:48:08 - send {
+	"type":	"friend-list",
+	"size":	4,
+	"list":	[{
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"niang",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	1
+		}, {
+			"username":	"tsuki",
+			"status":	1
+		}]
+}
+
+2015-09-11 01:48:09 - send {
+	"type":	"friend-list",
+	"size":	4,
+	"list":	[{
+			"username":	"will",
+			"status":	1
+		}, {
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"green",
+			"status":	1
+		}, {
+			"username":	"cai",
+			"status":	1
+		}]
+}
+
+2015-09-11 01:48:16 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:48:18 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	2
+		}, {
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:48:19 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:48:20 - send {
+	"type":	"friend-list",
+	"size":	3,
+	"list":	[{
+			"username":	"green",
+			"status":	1
+		}, {
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"tsuki",
+			"status":	1
+		}]
+}
+
+2015-09-11 01:48:30 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:48:32 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"tsuki",
+			"status":	1
+		}]
+}
+
+2015-09-11 01:48:34 - send {
+	"type":	"friend-list",
+	"size":	4,
+	"list":	[{
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"niang",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	1
+		}, {
+			"username":	"tsuki",
+			"status":	1
+		}]
+}
+
+2015-09-11 01:48:35 - send {
+	"type":	"friend-list",
+	"size":	4,
+	"list":	[{
+			"username":	"will",
+			"status":	1
+		}, {
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"green",
+			"status":	1
+		}, {
+			"username":	"cai",
+			"status":	1
+		}]
+}
+
+2015-09-11 01:48:41 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:48:44 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	2
+		}, {
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:48:45 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:48:45 - send {
+	"type":	"friend-list",
+	"size":	3,
+	"list":	[{
+			"username":	"green",
+			"status":	1
+		}, {
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"tsuki",
+			"status":	1
+		}]
+}
+
+2015-09-11 01:48:50 - send {
+	"type":	"message/text",
+	"sendto":	"tsuki",
+	"sendfrom":	"green",
+	"sendtime":	"2015-09-11 01:48:35",
+	"content":	"ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss"
+}
+
+2015-09-11 01:48:55 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:48:56 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"tsuki",
+			"status":	1
+		}]
+}
+
+2015-09-11 01:48:59 - send {
+	"type":	"friend-list",
+	"size":	4,
+	"list":	[{
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"niang",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	1
+		}, {
+			"username":	"tsuki",
+			"status":	1
+		}]
+}
+
+2015-09-11 01:49:00 - send {
+	"type":	"friend-list",
+	"size":	4,
+	"list":	[{
+			"username":	"will",
+			"status":	1
+		}, {
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"green",
+			"status":	1
+		}, {
+			"username":	"cai",
+			"status":	1
+		}]
+}
+
+2015-09-11 01:49:05 - send {
+	"type":	"group-profile",
+	"member-count":	5,
+	"groupID":	1,
+	"list":	[{
+			"username":	"sky"
+		}, {
+			"username":	"green"
+		}, {
+			"username":	"tsuki"
+		}, {
+			"username":	"will"
+		}, {
+			"username":	"cai"
+		}]
+}
+
+2015-09-11 01:49:06 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:49:09 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	2
+		}, {
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:49:09 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:49:10 - send {
+	"type":	"friend-list",
+	"size":	3,
+	"list":	[{
+			"username":	"green",
+			"status":	1
+		}, {
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"tsuki",
+			"status":	1
+		}]
+}
+
+2015-09-11 01:49:18 - send {
+	"type":	"message/text",
+	"sendto":	"green",
+	"sendfrom":	"tsuki",
+	"sendtime":	"2015-09-11 14:49:04",
+	"content":	"asdasdadasd\nasdadasdasd"
+}
+
+2015-09-11 01:49:20 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:49:21 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"tsuki",
+			"status":	1
+		}]
+}
+
+2015-09-11 01:49:23 - send {
+	"type":	"friend-list",
+	"size":	4,
+	"list":	[{
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"niang",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	1
+		}, {
+			"username":	"tsuki",
+			"status":	1
+		}]
+}
+
+2015-09-11 01:49:24 - send {
+	"type":	"friend-list",
+	"size":	4,
+	"list":	[{
+			"username":	"will",
+			"status":	1
+		}, {
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"green",
+			"status":	1
+		}, {
+			"username":	"cai",
+			"status":	1
+		}]
+}
+
+2015-09-11 01:49:31 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:49:31 - send {
+	"type":	"message/text",
+	"sendto":	"green",
+	"sendfrom":	"tsuki",
+	"sendtime":	"2015-09-11 14:49:18",
+	"content":	"shabi"
+}
+
+2015-09-11 01:49:33 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	2
+		}, {
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:49:34 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:49:34 - send {
+	"type":	"message/text",
+	"sendto":	"tsuki",
+	"sendfrom":	"green",
+	"sendtime":	"2015-09-11 01:49:20",
+	"content":	"da sha diao"
+}
+
+2015-09-11 01:49:35 - send {
+	"type":	"friend-list",
+	"size":	3,
+	"list":	[{
+			"username":	"green",
+			"status":	1
+		}, {
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"tsuki",
+			"status":	1
+		}]
+}
+
+2015-09-11 01:49:45 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:49:46 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"tsuki",
+			"status":	1
+		}]
+}
+
+2015-09-11 01:49:48 - send {
+	"type":	"friend-list",
+	"size":	4,
+	"list":	[{
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"niang",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	1
+		}, {
+			"username":	"tsuki",
+			"status":	1
+		}]
+}
+
+2015-09-11 01:49:49 - send {
+	"type":	"friend-list",
+	"size":	4,
+	"list":	[{
+			"username":	"will",
+			"status":	1
+		}, {
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"green",
+			"status":	1
+		}, {
+			"username":	"cai",
+			"status":	1
+		}]
+}
+
+2015-09-11 01:49:57 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:49:59 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	2
+		}, {
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:50:00 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:50:01 - send {
+	"type":	"friend-list",
+	"size":	3,
+	"list":	[{
+			"username":	"green",
+			"status":	1
+		}, {
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"tsuki",
+			"status":	1
+		}]
+}
+
+2015-09-11 01:50:08 - send {
+	"type":	"message/text",
+	"sendto":	"green",
+	"sendfrom":	"tsuki",
+	"sendtime":	"2015-09-11 14:49:54",
+	"content":	"naive\n"
+}
+
+2015-09-11 01:50:10 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:50:11 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"tsuki",
+			"status":	1
+		}]
+}
+
+2015-09-11 01:50:14 - send {
+	"type":	"friend-list",
+	"size":	4,
+	"list":	[{
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"niang",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	1
+		}, {
+			"username":	"tsuki",
+			"status":	1
+		}]
+}
+
+2015-09-11 01:50:15 - send {
+	"type":	"friend-list",
+	"size":	4,
+	"list":	[{
+			"username":	"will",
+			"status":	1
+		}, {
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"green",
+			"status":	1
+		}, {
+			"username":	"cai",
+			"status":	1
+		}]
+}
+
+2015-09-11 01:50:18 - send {
+	"type":	"message/text",
+	"sendto":	"cai",
+	"sendfrom":	"tsuki",
+	"sendtime":	"2015-09-11 14:50:04",
+	"content":	"Hi"
+}
+
+2015-09-11 01:50:21 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:50:24 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	2
+		}, {
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:50:25 - send {
+	"type":	"friend-list",
+	"size":	3,
+	"list":	[{
+			"username":	"green",
+			"status":	1
+		}, {
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"tsuki",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:50:35 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:50:36 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"tsuki",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:50:39 - send {
+	"type":	"friend-list",
+	"size":	4,
+	"list":	[{
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"niang",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	1
+		}, {
+			"username":	"tsuki",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:50:46 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:50:48 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	2
+		}, {
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:50:50 - send {
+	"type":	"friend-list",
+	"size":	3,
+	"list":	[{
+			"username":	"green",
+			"status":	1
+		}, {
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"tsuki",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:51:00 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:51:01 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"tsuki",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:51:03 - send {
+	"type":	"friend-list",
+	"size":	4,
+	"list":	[{
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"niang",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	1
+		}, {
+			"username":	"tsuki",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:51:11 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:51:13 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	2
+		}, {
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:51:15 - send {
+	"type":	"friend-list",
+	"size":	3,
+	"list":	[{
+			"username":	"green",
+			"status":	1
+		}, {
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"tsuki",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:51:15 - send {
+	"type":	"group-profile",
+	"member-count":	2,
+	"groupID":	2,
+	"list":	[{
+			"username":	"green"
+		}, {
+			"username":	"sky"
+		}]
+}
+
+2015-09-11 01:51:16 - send {
+	"type":	"group-profile",
+	"member-count":	5,
+	"groupID":	1,
+	"list":	[{
+			"username":	"sky"
+		}, {
+			"username":	"green"
+		}, {
+			"username":	"tsuki"
+		}, {
+			"username":	"will"
+		}, {
+			"username":	"cai"
+		}]
+}
+
+2015-09-11 01:51:16 - send {
+	"type":	"group-profile",
+	"member-count":	2,
+	"groupID":	2,
+	"list":	[{
+			"username":	"green"
+		}, {
+			"username":	"sky"
+		}]
+}
+
+2015-09-11 01:51:16 - send {
+	"type":	"group-profile",
+	"member-count":	5,
+	"groupID":	1,
+	"list":	[{
+			"username":	"sky"
+		}, {
+			"username":	"green"
+		}, {
+			"username":	"tsuki"
+		}, {
+			"username":	"will"
+		}, {
+			"username":	"cai"
+		}]
+}
+
+2015-09-11 01:51:17 - send {
+	"type":	"group-profile",
+	"member-count":	2,
+	"groupID":	2,
+	"list":	[{
+			"username":	"green"
+		}, {
+			"username":	"sky"
+		}]
+}
+
+2015-09-11 01:51:17 - send {
+	"type":	"group-profile",
+	"member-count":	5,
+	"groupID":	1,
+	"list":	[{
+			"username":	"sky"
+		}, {
+			"username":	"green"
+		}, {
+			"username":	"tsuki"
+		}, {
+			"username":	"will"
+		}, {
+			"username":	"cai"
+		}]
+}
+
+2015-09-11 01:51:18 - send {
+	"type":	"group-profile",
+	"member-count":	2,
+	"groupID":	2,
+	"list":	[{
+			"username":	"green"
+		}, {
+			"username":	"sky"
+		}]
+}
+
+2015-09-11 01:51:18 - send {
+	"type":	"group-profile",
+	"member-count":	5,
+	"groupID":	1,
+	"list":	[{
+			"username":	"sky"
+		}, {
+			"username":	"green"
+		}, {
+			"username":	"tsuki"
+		}, {
+			"username":	"will"
+		}, {
+			"username":	"cai"
+		}]
+}
+
+2015-09-11 01:51:26 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:51:27 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"tsuki",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:51:29 - send {
+	"type":	"friend-list",
+	"size":	4,
+	"list":	[{
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"niang",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	1
+		}, {
+			"username":	"tsuki",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:51:36 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:51:39 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	2
+		}, {
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:51:41 - send {
+	"type":	"friend-list",
+	"size":	3,
+	"list":	[{
+			"username":	"green",
+			"status":	1
+		}, {
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"tsuki",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:51:50 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:51:51 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"tsuki",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:51:51 - send {
+	"type":	"group-profile",
+	"member-count":	2,
+	"groupID":	2,
+	"list":	[{
+			"username":	"green"
+		}, {
+			"username":	"sky"
+		}]
+}
+
+2015-09-11 01:51:54 - send {
+	"type":	"friend-list",
+	"size":	4,
+	"list":	[{
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"niang",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	1
+		}, {
+			"username":	"tsuki",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:52:01 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:52:04 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	2
+		}, {
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:52:05 - send {
+	"type":	"friend-list",
+	"size":	3,
+	"list":	[{
+			"username":	"green",
+			"status":	1
+		}, {
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"tsuki",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:52:15 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:52:16 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"tsuki",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:52:18 - send {
+	"type":	"friend-list",
+	"size":	4,
+	"list":	[{
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"niang",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	1
+		}, {
+			"username":	"tsuki",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:52:26 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:52:28 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	2
+		}, {
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:52:30 - send {
+	"type":	"friend-list",
+	"size":	3,
+	"list":	[{
+			"username":	"green",
+			"status":	1
+		}, {
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"tsuki",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:52:40 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:52:41 - send {
+	"type":	"friend-list",
+	"size":	1,
+	"list":	[{
+			"username":	"tsuki",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:52:43 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"will",
+	"sendtime":	"2015-09-11 01:53:23",
+	"content":	"d",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:52:43 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"will",
+	"sendtime":	"2015-09-11 01:53:23",
+	"content":	"d",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:52:43 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"will",
+	"sendtime":	"2015-09-11 01:53:23",
+	"content":	"d",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:52:44 - send {
+	"type":	"friend-list",
+	"size":	4,
+	"list":	[{
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"niang",
+			"status":	0
+		}, {
+			"username":	"will",
+			"status":	1
+		}, {
+			"username":	"tsuki",
+			"status":	0
+		}]
+}
+
+2015-09-11 01:52:46 - send {"type":"login-receipt","status":1,"username":"tsuki"}
+
+2015-09-11 01:52:47 - send {
+	"type":	"message/text",
+	"sendto":	"tsuki",
+	"sendfrom":	"green",
+	"sendtime":	"2015-09-11 01:51:46",
+	"content":	"xixi"
+}
+
+2015-09-11 01:52:47 - send {
+	"type":	"message/text/group",
+	"sendto":	1,
+	"sendfrom":	"will",
+	"sendtime":	"2015-09-11 01:53:23",
+	"content":	"d",
+	"msgID":	"segmentfault"
+}
+
+2015-09-11 01:52:48 - send {
+	"type":	"friend-list",
+	"size":	4,
+	"list":	[{
+			"username":	"will",
+			"status":	1
+		}, {
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"green",
+			"status":	1
+		}, {
+			"username":	"cai",
+			"status":	1
+		}]
+}
+
+2015-09-11 01:52:48 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:52:48 - send {
+	"type":	"message/text",
+	"sendto":	"green",
+	"sendfrom":	"will",
+	"sendtime":	"2015-09-11 01:53:29",
+	"content":	"dsgd"
+}
+
+2015-09-11 01:52:50 - send {
+	"type":	"message/text",
+	"sendto":	"green",
+	"sendfrom":	"will",
+	"sendtime":	"2015-09-11 01:53:31",
+	"content":	"dsafcv"
+}
+
+2015-09-11 01:52:52 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:52:52 - send {
+	"type":	"group-profile",
+	"member-count":	5,
+	"groupID":	1,
+	"list":	[{
+			"username":	"sky"
+		}, {
+			"username":	"green"
+		}, {
+			"username":	"tsuki"
+		}, {
+			"username":	"will"
+		}, {
+			"username":	"cai"
+		}]
+}
+
+2015-09-11 01:52:52 - send {
+	"type":	"group-profile",
+	"member-count":	5,
+	"groupID":	1,
+	"list":	[{
+			"username":	"sky"
+		}, {
+			"username":	"green"
+		}, {
+			"username":	"tsuki"
+		}, {
+			"username":	"will"
+		}, {
+			"username":	"cai"
+		}]
+}
+
+2015-09-11 01:52:52 - send {
+	"type":	"group-profile",
+	"member-count":	5,
+	"groupID":	1,
+	"list":	[{
+			"username":	"sky"
+		}, {
+			"username":	"green"
+		}, {
+			"username":	"tsuki"
+		}, {
+			"username":	"will"
+		}, {
+			"username":	"cai"
+		}]
+}
+
+2015-09-11 01:52:52 - send {
+	"type":	"group-profile",
+	"member-count":	5,
+	"groupID":	1,
+	"list":	[{
+			"username":	"sky"
+		}, {
+			"username":	"green"
+		}, {
+			"username":	"tsuki"
+		}, {
+			"username":	"will"
+		}, {
+			"username":	"cai"
+		}]
+}
+
+2015-09-11 01:52:53 - send {
+	"type":	"message/text",
+	"sendto":	"green",
+	"sendfrom":	"tsuki",
+	"sendtime":	"2015-09-11 14:52:39",
+	"content":	"haha"
+}
+
+2015-09-11 01:52:54 - send {
+	"type":	"group-list",
+	"size":	2,
+	"list":	[{
+			"groupID":	2
+		}, {
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:52:56 - send {
+	"type":	"friend-list",
+	"size":	3,
+	"list":	[{
+			"username":	"green",
+			"status":	1
+		}, {
+			"username":	"sky",
+			"status":	0
+		}, {
+			"username":	"tsuki",
+			"status":	1
+		}]
+}
+
+2015-09-11 01:52:56 - send {
+	"type":	"group-list",
+	"size":	1,
+	"list":	[{
+			"groupID":	1
+		}]
+}
+
+2015-09-11 01:52:57 - send {
+	"type":	"group-profile",
+	"member-count":	5,
+	"groupID":	1,
+	"list":	[{
+			"username":	"sky"
+		}, {
+			"username":	"green"
+		}, {
+			"username":	"tsuki"
+		}, {
+			"username":	"will"
+		}, {
+			"username":	"cai"
+		}]
+}
+
