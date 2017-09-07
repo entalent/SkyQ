@@ -1,4 +1,15 @@
 # SkyQ
-An IM software that runs on linux, using GTK+-2.0
-This project used cJSON library to parse and generate JSON strings, and SQLite3 to store user data and chat record. It's first 
-version is programmed hasty, so it might be unstable and contain many bugs.
+
+## Introduction
+An IM software that runs on linux, using GTK+ 2.0
+This project used cJSON library to parse and generate JSON strings, and SQLite3 to store user data and chat record. 
+
+## Functions
+Peer-to-peer chat
+Group chat
+Chat record storage
+Offline message
+
+## Developers
+### Wentian Zhao, Hanqing Wang, Xiaoxiang Wei, Shuying Yu
+### School of Computer Science, Beijing Institute of Technology
